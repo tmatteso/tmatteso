@@ -6,7 +6,7 @@ With regard to Cell Systems Biology, I am drawn to Multimodal Machine Learning m
 
 With regard to Structural Biology, recent advances in deep neural networks for 3D point clouds have caught my interest. Tensor Field Networks, and their application to RNA structure prediction have proved quite useful. More recently, E(n) Equivariant Graph Neural Networks have added reflection equivariance to the permutation, rotation, and translation equivariance of other models, all useful properties for 3D modeling. Combining 3D scoring functions that use these methods with large transformer models like Alphafold2 can give us the best of both worlds. The transformer will attend over the sequence input and propose point cloud structures based on multiple sequence alignments (doing the heavy lifting of sequence to structure). Then, a "sufficiently" trained 3D point cloud scoring function may greatly prune the search space further with its learned understanding of molecular biophysics on the point clouds themselves. In this way we can give back to these structural models the precepts of physical knowledge, making them more performant on low coverage alignments and generally more sample efficient. 
 
-I am currently looking for new opportunities, both in industry and in academia, as I graduate this December. If you would like to contact me or learn more, please reach out via my Linkedin: <link>.
+I am currently looking for new opportunities, both in industry and in academia, as I graduate this December. If you would like to contact me or learn more, please reach out via my Linkedin: https://www.linkedin.com/in/tomas-matteson-542b16253/
 
 
 <!---
