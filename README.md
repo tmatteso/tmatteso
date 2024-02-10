@@ -1,4 +1,4 @@
-Hi, I am Tomas Matteson, a Research Engineer currently focused on Large Language Models for Biological applications. More than 5 years experience applying machine learning models to real world data. Educated with modern theoretical and applied Machine Learning techniques from the School of Computer Science at Carnegie Mellon University. Able to scale Deep Learning algorithms across multiple GPUs and multiple nodes with Cloud Service Providers and Infrastructure as Code. Familiar with Docker and Kubernetes on AWS, Slurm on High Performance Computing Clusters.
+Hi, I am Tomas Matteson, a Research Engineer currently focused on Large Language Models for Biological applications. I have more than 5 years experience applying machine learning models to real world data. I am educated in modern theoretical and applied Machine Learning techniques from the School of Computer Science at Carnegie Mellon University. I am able to scale Deep Learning algorithms across multiple GPUs and multiple nodes with Cloud Service Providers and Infrastructure as Code. I am familiar with Docker and Kubernetes on AWS, Slurm on High Performance Computing Clusters.
 
 
 <!---
